@@ -1,6 +1,3 @@
-#MATH2920 Miniproject Sparse Rulers Template File
-
-#import files here
 from itertools import combinations
 from statistics import mean
 import matplotlib.pyplot as plt
